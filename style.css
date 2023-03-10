@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#paragraph1{
+    background-color:coral;
+    width:140px;
+    border-style:groove;
+    border-color:chocolate
+}
+img{
+width: 700px;
+height: 600px;
+border-style: outset;
+border-color:rgb(24, 24, 24)
+}
